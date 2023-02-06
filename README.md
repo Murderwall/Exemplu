@@ -1,5 +1,5 @@
 # Exemplu
-Hello All!
+
 There once was a tester named Sue
 Who worked hard on a software release too
 She tested with might
